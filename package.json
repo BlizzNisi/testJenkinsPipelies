@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha ./Tests/06.FoodDeliveryTests.js"
+    "test": "node ./node_modules/mocha/bin/mocha ./Tests/**.js"
   },
   "author": "",
   "license": "ISC",
